@@ -2,7 +2,7 @@
 
 React [tic tac toe tutorial](https://reactjs.org/tutorial/tutorial.html), but implemented with functions & hooks, rather than classes.
 
-See [here](https://floatingintheclouds.com/react-tic-tac-toe) for a bit more. 
+See [my blog here](https://floatingintheclouds.com/react-tic-tac-toe) for a bit more info. 
 
 ---
 
