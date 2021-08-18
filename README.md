@@ -1,20 +1,17 @@
+# Function & Hook Tic Tac Two
 
 React [tic tac toe tutorial](https://reactjs.org/tutorial/tutorial.html), but implemented with functions & hooks, rather than classes.
 
-
-
 ---
 
-Below is from readme for Create React App
+## Getting Started with Create React App
 
-# Getting Started with Create React App
-
-
-## Available Scripts
+(This is from readme for Create React App)
+### Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+#### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -22,12 +19,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
+#### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+#### `yarn build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
