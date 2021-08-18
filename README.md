@@ -1,6 +1,14 @@
+
+React [tic tac toe tutorial](https://reactjs.org/tutorial/tutorial.html), but implemented with functions & hooks, rather than classes.
+
+
+
+---
+
+Below is from readme for Create React App
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
