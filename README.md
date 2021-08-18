@@ -1,4 +1,4 @@
-# Function & Hook Tic Tac Two
+# React Function & Hook Tic-Tac-Toe
 
 React [tic tac toe tutorial](https://reactjs.org/tutorial/tutorial.html), but implemented with functions & hooks, rather than classes.
 
